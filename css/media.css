@@ -1,0 +1,253 @@
+@media screen and (max-width:1200px) and (min-width:992px){
+    /* header */
+    h1{
+        font-size: 60px;
+    }
+
+    /* blog */
+
+    #blog .carousel-item p{
+        width: 700px;
+        margin: auto;
+    }
+
+    .info h3{
+        font-size: 30px;
+        font-weight: normal;
+    }
+}
+
+@media screen and (max-width:992px) and (min-width:767px){
+
+    /* header */
+
+    h1{
+        font-size: 60px;
+    }
+
+    /* about */
+
+    #about .container{
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+    /*team */
+
+    .info-box h3{
+        font-size: 28px;
+    }
+
+    .info-box a{
+        padding: 15px;
+    }
+
+    .info-box{
+        margin-top: 0px;
+    }
+
+    /* service */
+
+    #service{
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+    /* blog */
+
+    #blog .carousel-item p{
+        width: 700px;
+        margin: auto;
+    }
+    
+    /* contact */
+
+    .info h3{
+        font-size: 25px;
+        font-weight: normal;
+        margin-bottom: 15px;
+    }
+
+    .info-contact{
+        padding: 15px 0;
+    }
+}
+
+@media screen and (max-width:767px) and (min-width:576px){
+    /* header & nav */
+
+    h1{
+        font-size: 40px;
+    }
+
+    .navbar{
+        border: none;
+    }
+
+    .heading p{
+        width: auto;
+    }
+
+    /* team */
+
+    .info-box h3{
+        font-size: 28px;
+    }
+
+    .info-box a{
+        padding: 15px;
+    }
+
+    .info-box{
+        margin-top: 0px;
+    }
+
+    /* service */
+
+    #service{
+        padding-bottom: 20px;
+        padding-top: 20px;
+    }
+
+    /* blog */
+
+    #blog{
+        padding-bottom: 40px;
+        padding-top: 40px;
+    }
+
+    .blog_carousel{
+        width: 100%;
+    }
+
+    #blog .carousel-item{
+        margin-top: 100px;
+    }
+
+    #blog .carousel-item p{
+        width: auto;
+        margin: auto;
+        font-size: 20px;
+    }
+
+    /* contact */
+
+    .info h3{
+        font-size: 25px;
+        font-weight: normal;
+        margin-bottom: 15px;
+    }
+
+    #contact {
+        padding-top: 10px;
+    }
+
+    .info-contact{
+        padding: 15px 0;
+    }
+}
+
+@media screen and (max-width:575px){
+
+    /* header & nav */
+
+    h1{
+        font-size: 30px;
+    }
+
+    .loading{
+        display: none !important;
+    }
+
+    .navbar{
+        border: none;
+    }
+
+    .heading p{
+        width: auto;
+    }
+
+    /* about */
+
+    #about .container{
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+    .layered i{
+        padding-right: 40px;
+    }
+
+    /* team */
+
+    #team{
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+    .info-box h3{
+        font-size: 28px;
+    }
+
+    .info-box a{
+        padding: 15px;
+    }
+
+    .info-box{
+        margin-top: 0px;
+    }
+
+    /* service */
+
+    #service{
+        padding-bottom: 20px;
+        padding-top: 20px;
+    }
+
+    /* blog */
+
+    #blog{
+        padding-bottom: 40px;
+        padding-top: 40px;
+    }
+
+    .blog_carousel{
+        width: 100%;
+    }
+
+    #blog .carousel-item{
+        margin-top: 100px;
+    }
+
+    #blog .carousel-item p{
+        width: auto;
+        margin: auto;
+        font-size: 20px;
+    }
+
+    /* contact */
+
+    .info h3{
+        font-size: 25px;
+        font-weight: normal;
+        margin-bottom: 15px;
+    }
+
+    #contact {
+        padding-top: 10px;
+    }
+
+    .info-contact{
+        padding: 15px 0;
+    }
+
+    /* footer & copyright */
+
+    .footer_CopyRight{
+        text-align: center;
+    }
+
+    .copy{
+        margin-left: 30%;
+    }
+}
